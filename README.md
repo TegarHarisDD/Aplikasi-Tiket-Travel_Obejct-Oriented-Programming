@@ -13,7 +13,7 @@ This project was developed as part of an academic or personal exploration of OOP
 ## Technologies Used  
 - **Language:** Java  
 - **Build Tool:** Gradle  
-- **IDE:** NetBeans (or any preferred Java IDE)
+- **IDE:** NetBeans IDE 21 (or any preferred Java IDE)
   
 ## Project Structure  
 ```
