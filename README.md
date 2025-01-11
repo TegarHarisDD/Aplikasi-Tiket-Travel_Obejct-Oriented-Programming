@@ -13,13 +13,8 @@ This project was developed as part of an academic or personal exploration of OOP
 ## Technologies Used  
 - **Language:** Java  
 - **Build Tool:** Gradle  
-- **IDE:** NetBeans (or any preferred Java IDE)  
-
-## Prerequisites  
-To run this project, ensure you have the following installed:  
-- [Java JDK 8+](https://www.oracle.com/java/technologies/javase-downloads.html)  
-- [Gradle](https://gradle.org/) (optional if using the provided Gradle wrapper)  
-
+- **IDE:** NetBeans (or any preferred Java IDE)
+  
 ## Project Structure  
 ```
 Aplikasi-Tiket-Travel_Object-Oriented-Programming/  
