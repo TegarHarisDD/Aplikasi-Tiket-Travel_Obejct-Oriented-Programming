@@ -1,4 +1,4 @@
-# Aplikasi Tiket Travel: Object-Oriented Programming  
+# Travel Ticket Application: Object-Oriented Programming
 
 ## Description  
 **Aplikasi Tiket Travel** is a Java-based application designed to manage travel ticket bookings. Built with an Object-Oriented Programming (OOP) approach, it demonstrates key OOP principles such as encapsulation, inheritance, polymorphism, and abstraction.  
